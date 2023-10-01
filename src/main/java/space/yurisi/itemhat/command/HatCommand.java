@@ -1,4 +1,4 @@
-package command;
+package space.yurisi.itemhat.command;
 
 import net.kyori.adventure.text.Component;
 import org.bukkit.Material;

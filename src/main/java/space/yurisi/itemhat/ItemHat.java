@@ -1,7 +1,7 @@
 package space.yurisi.itemhat;
 
-import command.HatCommand;
 import org.bukkit.plugin.java.JavaPlugin;
+import space.yurisi.itemhat.command.HatCommand;
 
 public final class ItemHat extends JavaPlugin{
 
